@@ -1,0 +1,31 @@
+
+container
+- contain deff components
+- awt library
+
+SWING CONTAINERS:
+-JPanel
+-JFrame (Extend / Within a Class)
+-JWindow
+
+import > javax.swing.*;
+
+Methods:
+- setVisible() - shows the window (always true)
+- setSize() - set the size of the window (h x w) - whole int
+- setLocation() - location of the frame on the screen 
+- setTitle() - title on the top of the window
+- setDefaultCloseOPeration() - JFrame.EXIT_ON_CLOSE
+- setBounds() - set SIZE and LOCATION in 1 command
+
+
+LAYOUT - arrangement of your componenet in your window
+
+
+FlowLayout
+BorderLayout
+CardLayout
+GridLayout
+GridBagLayout - Flexible
+BoxLayout - R/C
+SpringLayout - 
